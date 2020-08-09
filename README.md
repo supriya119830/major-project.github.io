@@ -4,5 +4,5 @@
 ### Team Members:
 - Satyam Raina
 - Supriya kumari
-- shireen saiyad
+- Shireen saiyad
 -
