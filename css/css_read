@@ -1,0 +1,88 @@
+/* import font*/
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Gugi&family=Lato:wght@700&family=Roboto&family=Sofia&display=swap');
+
+:root{
+    --light-gray:#2b3032a1;
+	--primary-color:#f1c841;
+	--border:#2b303218;
+	--text-color:#ff686b;
+	--roboto:"Roboto",sans-serinmf;
+	--gugi:"Gugi",cursive;
+	--sofia:"Sofia",cursive;
+}
+
+.primary-color{
+ color: var(--primary-color);
+
+}
+
+.bg-primary-color{
+	background-color: var(--primary-color)!important;
+}
+
+.text-color{
+	color: var(--text-color);
+}
+
+.font-roboto{
+	font-family: var(--roboto);
+}
+
+.lightblue{
+	color: lightblue;
+}
+
+h1{
+
+	font-family: var(--roboto);
+	
+}
+header{
+	background-color: var(--primary-color);
+	font-family: var(--roboto);
+}
+
+header .site-title{
+	font-family: var(--gugi);
+}
+
+.conatiner .dropdown-toggle,
+.container .dropdown-item{
+	font-size: 0.7rem;
+}
+
+
+.header-links a{
+	font-size: 0.9rem;
+	text-decoration: none;
+	color: #2b3032a1;
+	
+}
+
+.navbar-nav{
+	padding:0.8em 0em;
+}
+
+.navbar-nav .nav-link{
+	font-size: 0.9rem;
+	color:#2b3032a1;
+}
+
+
+.navbar-nav .nav-item.nav-link{
+padding: 0 1.5em;
+
+}
+
+.navbar-nav .basket-icon{
+	margin-right: 6.5rem !important;
+}
+.MultiCarousel { float: left; overflow: hidden; padding: 15px; width: 100%; position:relative; }
+    .MultiCarousel .MultiCarousel-inner { transition: 1s ease all; float: left; }
+        .MultiCarousel .MultiCarousel-inner .item { float: left;}
+        .MultiCarousel .MultiCarousel-inner .item > div { text-align: center; padding:10px; margin:10px; background:#f1f1f1; color:#666;}
+    .MultiCarousel .leftLst, .MultiCarousel .rightLst { position:absolute; border-radius:50%;top:calc(50% - 20px); }
+    .MultiCarousel .leftLst { left:0; }
+    .MultiCarousel .rightLst { right:0; }
+    
+        .MultiCarousel .leftLst.over, .MultiCarousel .rightLst.over { pointer-events: none; background:#ccc; }
