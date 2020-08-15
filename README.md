@@ -10,4 +10,4 @@
 - Owais ahmad
 - Vaishnavi Dittakavi
 - Muskaan Dhadwal
-- Amruthsai Jill
+- Amruthsai Jilla
