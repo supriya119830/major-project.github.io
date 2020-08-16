@@ -316,6 +316,15 @@ img {vertical-align: middle;}
 	</div>
 	
 </div>
+<footer class="copyright">
+        <div class="up" id="up">
+            <i class="fas fa-chevron-up"></i>
+            
+            
+        </div>
+        <p> &copy; 2020 verzeo Online Store </p>
+        
+    </footer>
 
 
 
