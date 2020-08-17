@@ -11,3 +11,4 @@
 - Vaishnavi Dittakavi
 - Muskaan Dhadwal
 - Amruthsai Jilla
+- Tanishq Javvaji
